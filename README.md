@@ -20,7 +20,7 @@ The project sheds light on passenger experiences and preferences, offering valua
 
 <br>
 
-Checkout my Live Dashboard published over here: <a href="https://www.novypro.com/profile_projects/swapnildeore" target="_blank"><code>British Airways Dashboard</code></a>
+Checkout my Live Dashboard published over here: <a href="https://public.tableau.com/app/profile/swapn1l/vizzes" target="_blank"><code>British Airways Dashboard</code></a>
 
 
 ### Glimpse of my Dashboard:
