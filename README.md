@@ -2,11 +2,21 @@
 
 ### Introduction:
 
-In this project, I conducted comprehensive data analysis on the datasets of Adventures Work, a bike selling company, spanning from 2020 to 2023. The datasets comprised various categories and sub-categories of products, sales figures, returns, demographics, and customer information. Using Power BI, I meticulously cleaned and transformed the data, establishing relationships between different data elements through data modeling. 
+This project focuses on analyzing British Airways' passenger experience data to uncover insights into what constitutes a great flight experience. By examining various aspects such as seat comfort, cabin crew friendliness, and overall passenger satisfaction, the project aims to provide a comprehensive understanding of the factors that influence passenger perceptions and experiences during air travel.
 
-I visualized the insights obtained from the analysis using a variety of tools such as cards, line charts, bar graphs, and slicers to gain a deeper understanding of the data. The analysis culminated in the creation of four distinct reports: the Executive Dashboard, Map Dashboard, Product Detail Dashboard, and Customer Detail Dashboard. 
+### Methodology
+The analysis involved:
 
-These dashboards serve as a comprehensive tool for stakeholders to gain insights into different aspects of Adventures Work's operations, including sales performance, geographic distribution, product details, and customer demographics. Through this project, valuable insights were derived to inform decision-making and strategic planning within the company.
+Utilizing British Airways' dataset to explore different dimensions of the flight experience.
+Employing data visualization techniques to create intuitive and informative visuals, including line charts, maps, and bar graphs.
+Analyzing passenger reviews by month, country, and type of aircraft to identify trends and patterns.
+
+### Features
+Interactive filters allowing users to customize their view by selecting specific flight classes, aircraft types, or traveler categories.
+A user-friendly dashboard that presents the analysis in an accessible and engaging format.
+
+### Significance
+The project sheds light on passenger experiences and preferences, offering valuable insights for airlines to enhance service quality and customer satisfaction. It also provides an engaging way for users to explore and interact with air travel data, revealing interesting findings about different planes and destinations.
 
 <br>
 
