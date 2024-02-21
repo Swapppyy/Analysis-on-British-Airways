@@ -7,13 +7,13 @@ This project focuses on analyzing British Airways' passenger experience data to 
 ### Methodology
 The analysis involved:
 
-Utilizing British Airways' dataset to explore different dimensions of the flight experience.
-Employing data visualization techniques to create intuitive and informative visuals, including line charts, maps, and bar graphs.
-Analyzing passenger reviews by month, country, and type of aircraft to identify trends and patterns.
+- Utilizing British Airways' dataset to explore different dimensions of the flight experience.
+- Employing data visualization techniques to create intuitive and informative visuals, including line charts, maps, and bar graphs.
+- Analyzing passenger reviews by month, country, and type of aircraft to identify trends and patterns.
 
 ### Features
-Interactive filters allowing users to customize their view by selecting specific flight classes, aircraft types, or traveler categories.
-A user-friendly dashboard that presents the analysis in an accessible and engaging format.
+- Interactive filters allowing users to customize their view by selecting specific flight classes, aircraft types, or traveler categories.
+- A user-friendly dashboard that presents the analysis in an accessible and engaging format.
 
 ### Significance
 The project sheds light on passenger experiences and preferences, offering valuable insights for airlines to enhance service quality and customer satisfaction. It also provides an engaging way for users to explore and interact with air travel data, revealing interesting findings about different planes and destinations.
