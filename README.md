@@ -1,4 +1,4 @@
-## Analysis on Adventure Works Bike Selling Company (Power BI)
+## Analysis on British Airways (Tableau)
 
 ### Introduction:
 
@@ -10,10 +10,10 @@ These dashboards serve as a comprehensive tool for stakeholders to gain insights
 
 <br>
 
-Checkout my Live Dashboard published over here: <a href="https://www.novypro.com/profile_projects/swapnildeore" target="_blank"><code>Adventure Works Dashboard</code></a>
+Checkout my Live Dashboard published over here: <a href="https://www.novypro.com/profile_projects/swapnildeore" target="_blank"><code>British Airways Dashboard</code></a>
 
 
 ### Glimpse of my Dashboard:
 <p align="center">
-  <img width="100%" src="Adventures_Works.png" />
+  <img width="100%" src="British airways.png" />
 </p>
